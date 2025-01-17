@@ -1,0 +1,21 @@
+section{
+    background-color: white !important;
+    z-index:9999999 ;
+}
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: 
+    rgb(44, 62, 80);
+}
+h1{
+    
+color:  rgb(44, 62, 80);
+}
+.mystar{
+    color: rgb(44, 62, 80) ;
+}
+.mybtn{
+    background-color: #17A68A;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.my-nav{
+    background-color: #2C3E50;
+}
+.logo{
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 3rem;
+}
+li{
+    font-weight: 700;
+    line-height: 1.5rem;
+}
+.bg-mine{
+    background-color: #1ABC9C;
+}
